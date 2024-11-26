@@ -41,10 +41,11 @@ This is a face recognition application built using Python, [Face-Recognition API
 
 
 ## Install conda Window
+```bash
 conda create --name face-api python=3.9
 conda install git
 pip install -r requirements.txt
-
+```
 
 ## Installation
 1. Clone the repository
