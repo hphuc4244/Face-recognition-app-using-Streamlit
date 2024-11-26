@@ -40,6 +40,11 @@ This is a face recognition application built using Python, [Face-Recognition API
 - **packages.txt**: contains the packages for the app used to deploy on Streamlit Cloud.
 
 
+## Install conda Window
+conda create --name face-api python=3.9
+conda install git
+pip install -r requirements.txt
+
 
 ## Installation
 1. Clone the repository
